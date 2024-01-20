@@ -9,9 +9,11 @@ IFNb_ScRNAseq_Integrated_Analysis
 
 ### To integrate data by conditions; to overlay cells that are similar in both conditions
 
-## Data
+## Source Data and Acknowledgements
 
-### Raw data is accessible from
+### Raw data is accessible from SeuratData Package
+
+### Modified script from Bioinformagician: Integrate single-cell RNA-Seq data in R using Harmony | Harmony in Seurat Workflow
 
 ## Setup
 
